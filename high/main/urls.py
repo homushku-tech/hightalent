@@ -1,4 +1,4 @@
-from main.views import *
+from main.views import TableView, ReservationView
 from django.urls import path
 
 urlpatterns = [
